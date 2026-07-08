@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="{{ "/miao.png" | relative_url }}" class="floatpic" alt="Tianqi Shen">
+<img src="{{ '/images/miao.png' | relative_url }}" class="floatpic" alt="Tianqi Shen">
 
 <br>My name is **Tianqi Shen** (沈天琦).<br>
 
@@ -15,21 +15,32 @@ I am supported by a Postgraduate Studentship (Presidential Assistant Professors 
 
 ---
 
+## Education and Employment
+
+- **2024–Present**: Ph.D. Student, Department of Computer Science, City University of Hong Kong (CityUHK).
+- **2023–2024**: 3D Reconstruction Researcher, Institute of Mining Artificial Intelligence, China Coal Research Institute (Chinese Academy of Coal Science).
+- **2020–2023**: M.Sc. (Research), School of Astronautics, Beihang University; Department of Image Processing.
+- **2018–2020**: Second B.Sc. Degree, School of Mathematical Sciences, Beihang University; Department of Applied Mathematics.
+- **2016–2020**: B.Sc., School of Astronautics, Beihang University; Department of Planning, Navigation and Control.
+
+---
+
 ## Research Interests
 
 - Non-convex optimization and landscape analysis
 - Optimizer design for modern large language models (LLMs)
-- 3D Gaussian splatting
-- Single-object visual tracking
-
+- World model and scene reconstruction
+- Visual tracking
 
 ---
 
 ## News and Updates
 
-- **Nov 2025**：Excited to receive an Honorary Mention Award in the 2025 IEEE ComSoc Student Competition!
-- **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge Trust and CSC Scholarship!
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
+- **Jul 2026:** One patent was granted; link to be added soon.
+- **Jun 2026:** Our manuscript on a river–valley perspective for landscape analysis of the Muon optimizer is now available on arXiv. ([link](https://arxiv.org/abs/2606.21514)).
+- **Feb 2026:** Our manuscript on simulated tensor over-parameterization for non-convex matrix sensing is now available on arXiv. ([link](https://arxiv.org/abs/2602.05887)).
+- **Mar 2026:** Our paper on visual tracking was accepted by *IEEE Transactions on Cognitive and Developmental Systems*. ([link](https://ieeexplore.ieee.org/document/11450439))
+- **Oct 2025:** I received CityUHK’s [Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-studen-2120/).
+- **Sep 2025:** I passed the Qualifying Examination (QE) and advanced to Ph.D. candidacy.
+- **Dec 2024:** Our paper on topology-aware 3D Gaussian Splatting was accepted to AAAI 2025 and selected for an oral presentation. ([link](https://ojs.aaai.org/index.php/AAAI/article/view/32732))
+- **Jun 2024:** One patent was granted. ([link](https://patents.google.com/patent/CN113850189B/en))

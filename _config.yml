@@ -7,7 +7,8 @@ description: Here is personal website of Tianqi Shen, PhD Student at the CityUHK
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://shentianqi.com
+url: https://AmadeusSTQ.github.io
+baseurl: ""
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA

@@ -37,7 +37,7 @@ I am supported by a Postgraduate Studentship (Presidential Assistant Professors 
 ## News and Updates
 
 - **Jul 2026:** One patent was granted; link to be added soon.
-- **Jun 2026:** Our manuscript on a river–valley perspective for landscape analysis of the Muon optimizer is now available on arXiv. ([link](https://arxiv.org/abs/2606.21514)).
+- **Jun 2026:** Our manuscript on a river-valley perspective for landscape analysis of the Muon optimizer is now available on arXiv. ([link](https://arxiv.org/abs/2606.21514)).
 - **Feb 2026:** Our manuscript on simulated tensor over-parameterization for non-convex matrix sensing is now available on arXiv. ([link](https://arxiv.org/abs/2602.05887)).
 - **Mar 2026:** Our paper on efficient aerial tracker was accepted by *IEEE Transactions on Cognitive and Developmental Systems*. ([link](https://ieeexplore.ieee.org/document/11450439))
 - **Oct 2025:** I received CityUHK’s [Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-studen-2120/).

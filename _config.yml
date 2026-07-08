@@ -36,9 +36,9 @@ owner:
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurement ID (used by _includes/gtag.html)
+google_analytics: "G-T5N5JY1E21"                                 # GA-4 measurement ID (used by _includes/gtag.html)
 
 
 # --------------------------------------------------
@@ -54,8 +54,8 @@ links:
     url: /services/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
+#  - title: Hobbies
+#    url: /hobbies/
   - title: Blogs
     url: /blogs/
   - title: 中文

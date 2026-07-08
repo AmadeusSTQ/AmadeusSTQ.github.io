@@ -17,7 +17,7 @@ I am supported by a Postgraduate Studentship (Presidential Assistant Professors 
 
 ## Education and Employment
 
-- **2024–Present**: Ph.D. Student, Department of Computer Science, City University of Hong Kong (CityUHK).
+- **2024–Present**: Ph.D. Student; Department of Computer Science; City University of Hong Kong (CityUHK).
 - **2023–2024**: Researcher, Institute of Mining Artificial Intelligence, China Coal Research Institute (Chinese Academy of Coal Science).
 - **2020–2023**: M.Sc. (Research degree); Department of Image Processing; School of Astronautics; Beihang University.
 - **2018–2020**: Second B.Sc. degree; Department of Applied Mathematics; School of Mathematical Sciences; Beihang University.
@@ -30,7 +30,7 @@ I am supported by a Postgraduate Studentship (Presidential Assistant Professors 
 - Non-convex optimization and landscape analysis
 - Optimizer design for modern large language models (LLMs)
 - World model and scene reconstruction
-- Visual tracking
+- Visual planning, navigation and tracking
 
 ---
 

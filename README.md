@@ -1,4 +1,4 @@
-# GuangLun2000.github.io
+# AmadeusSTQ.github.io
 
 Tianqi (天琦) means heavenly jade in Chinese ✨
 

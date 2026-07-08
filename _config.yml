@@ -14,16 +14,15 @@ url: https://shentianqi.com
 # --------------------------------------------------
 owner:
   name: Tianqi Shen
-  avatar: all_logos.svg   # CityU + BUAA
+  avatar: all_logos.png   # CityU + BUAA
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: tianqshen5-c@my.cityu.edu.hk
   # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
-
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: tianqshen5
   github: AmadeusSTQ
-  # linkedin: hanlincai
   scholar: https://scholar.google.com/citations?user=NuIh7ggAAAAJ
+  twitter: tianqshen5
+  linkedin: 天琦-沈-315733345
   # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
   # zhihu: https://www.zhihu.com/people/chlire
   # xiaohongshu: 5c27848f0000000005030c6f

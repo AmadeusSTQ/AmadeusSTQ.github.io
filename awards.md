@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /awards/index.html
+permalink: awards/index.html
 title: Awards
 ---
 
@@ -15,6 +15,6 @@ title: Awards
 
 - **2022:** First Prize, 8th China International "Internet+" Innovation and Entrepreneurship Competition
 - **2022:** Silver Award, "Challenge Cup" National College Students' Business Plan Competition
-- **2019:** First Prize, China Undergraduate Mathematical Contest (Beijing Division)
+- **2020:** First Prize, China Undergraduate Mathematical Contest (Beijing Division)
 - **2019:** Second Prize, “Feng Ru Cup” Student Academic Science and Technology Works Competition, Beihang University (BUAA)
 - **2017:** Second Prize, China Undergraduate Mathematical Contest in Modeling (Beijing Division)

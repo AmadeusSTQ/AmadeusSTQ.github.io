@@ -51,13 +51,13 @@ links:
   - title: Homepage
     url: /
   - title: Publications
-    url: publications/
+    url: /publications/
   - title: Services
-    url: services/
+    url: /services/
   - title: Awards
-    url: awards/
+    url: /awards/
   - title: Hobbies
-    url: hobbies/
+    url: /hobbies/
 #  - title: Blogs
 #    url: /blogs/
 #  - title: 中文

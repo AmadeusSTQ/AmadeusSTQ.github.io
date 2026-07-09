@@ -4,7 +4,7 @@ permalink: /hobbies/index.html
 title: Hobbies
 ---
 
-# Hobbies
+## Hobbies
 
 Outside of research, I enjoy playing badminton, playing *Genshin Impact*, and participating in mystery games such as murder‑mystery role‑play (Jubensha).
 

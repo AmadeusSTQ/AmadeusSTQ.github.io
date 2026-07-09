@@ -42,19 +42,10 @@ title: Publications
 
 ---
 
-[//]: # (## Degree Thesis)
+## Degree Thesis
 
-[//]: # ()
-[//]: # (- [Semantic Communication for the Internet of Everything: From Molecular to Space Networks]&#40;{{ site.url }}/mypaper/thesis/MPhil_thesis.pdf&#41;<br>**Hanlin Cai** &#40;Advisor: Dr. Ozgur B. Akan&#41;.<br>Examiners: [Dr. Sasitharan Balasubramaniam]&#40;https://computing.unl.edu/person/sasitharan-balasubramaniam/&#41;, [Dr. Qixiang Cheng]&#40;https://www.eng.cam.ac.uk/profiles/qc223&#41;.<br>Thesis awarded High Distinction.<br>)
+- [Research on Key Techniques for Correlation Operations in Siamese Network Object Tracking Algorithms]({{ site.url }}/mypaper/thesis/MPhi-thesis.pdf)<br>
+**Tianqi Shen** (Advisors: Prof. Hong Zhang and Prof. Ding Yuan)<br>
 
-[//]: # ()
-[//]: # (- [Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks]&#40;{{ site.url }}/mypaper/thesis/UG-thesis.pdf&#41;<br>**Hanlin Cai** &#40;Advisor: Dr. Zhezhuang Xu&#41;.<br>Best Bachelor Thesis Award &#40;top 1/300, the highest score of year 2024&#41;.<br>)
-
-[//]: # ()
-[//]: # (- [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot]&#40;{{ site.url }}/mypaper/thesis/IP-report.pdf&#41;<br>**Hanlin Cai** &#40;Advisor: Yuxiong Xia&#41;.<br>Industrial Placement Report at China Fuzhou Huading Tech. &#40;Third-year industrial progrom&#41;.<br>)
-
-[//]: # ()
-[//]: # (  <br>)
-
-[//]: # ()
-[//]: # (<br>)
+- [Development of a Vision-Based Autonomous Landing System for a Quadrotor UAV]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)<br>
+**Tianqi Shen** (Advisor: Prof. Ran Zhang and Prof. Huifeng Li)<br>

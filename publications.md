@@ -4,7 +4,7 @@ permalink: publications/index.html
 title: Publications
 ---
 
-> ($^\dagger$: equal contribution, $^\ast$:corresponding author)
+> (~: equal contribution, *:corresponding author)
 
 ----
 
@@ -12,7 +12,7 @@ title: Publications
 
 - [Search Multilayer Perceptron-Based Fusion for Efficient and Accurate Siamese Tracking](https://ieeexplore.ieee.org/document/11450439)<br>
 *IEEE Transactions on Cognitive and Developmental Systems (TCDS)* <br>
-**Tianqi Shen**, Huakao Lin, Ning An$^\ast$ <br>
+**Tianqi Shen**, Huakao Lin, Ning An* <br>
 
 ---
 
@@ -26,11 +26,11 @@ title: Publications
 
 ## Arxiv Preprint
 
-- [Escaping Local Minima Provably in Non-convex Matrix Sensing: A Deterministic Framework via Simulated Lifting](https://arxiv.org/abs/2602.05887)<br>
-**Tianqi Shen**, Jinji Yang, Junze He$^\dagger$, Kunhan Gao$^\dagger$, Zeyu Zheng, Ziye Ma$^\ast$ <br>
-
 - [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](https://arxiv.org/abs/2606.21514)<br>
-**Tianqi Shen**$^\dagger$, Runze Shi$^\dagger$, Jinji Yang, Jianhao Ma, Jiaye Teng, Ziye Ma$^\ast$ <br>
+**Tianqi Shen**~, Runze Shi~, Jinji Yang, Jianhao Ma, Jiaye Teng, Ziye Ma* <br>
+
+- [Escaping Local Minima Provably in Non-convex Matrix Sensing: A Deterministic Framework via Simulated Lifting](https://arxiv.org/abs/2602.05887)<br>
+**Tianqi Shen**, Jinji Yang, Junze He~, Kunhan Gao~, Zeyu Zheng, Ziye Ma* <br>
 
 ---
 
@@ -39,8 +39,6 @@ title: Publications
 - [一种应用于机动平台的嵌入式孪生网络实时跟踪方法](https://patents.google.com/patent/CN113850189B/zh)<br>
 *CN113850189B*<br>
 张弘, 沈天琦, 杨一帆, 袁丁, 李旭亮, 宋剑波 <br>
-
-
 
 ---
 

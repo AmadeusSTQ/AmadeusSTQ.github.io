@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /cn/index.html
+permalink: cn/index.html
 title: 蔡汉霖的个人主页
 ---
 

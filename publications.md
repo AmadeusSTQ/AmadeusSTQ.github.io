@@ -44,8 +44,8 @@ title: Publications
 
 ## Degree Thesis
 
-- [Research on Key Techniques for Correlation Operations in Siamese Network Object Tracking Algorithms]({{ site.url }}/mypaper/thesis/MPhi-thesis.pdf)<br>
+- [Research on Key Techniques for Correlation Operations in Siamese Network Object Tracking Algorithms]({{ "/mypaper/thesis/MPhi-thesis.pdf" | relative_url }})<br>
 **Tianqi Shen** (Advisors: Prof. Hong Zhang and Prof. Ding Yuan)<br>
 
-- [Development of a Vision-Based Autonomous Landing System for a Quadrotor UAV]({{ site.url }}/mypaper/thesis/UG-thesis.pdf)<br>
+- [Development of a Vision-Based Autonomous Landing System for a Quadrotor UAV]({{ "/mypaper/thesis/UG-thesis.pdf" | relative_url }})<br>
 **Tianqi Shen** (Advisor: Prof. Ran Zhang and Prof. Huifeng Li)<br>

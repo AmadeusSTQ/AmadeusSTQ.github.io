@@ -19,11 +19,11 @@ title: Publications
 ## Conference Paper
 
 - [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](https://arxiv.org/abs/2606.21514)<br>
-*40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026), **Poster**, **CCF-A*** <br>
+*40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026), **Poster**, **CCF A*** <br>
 **Tianqi Shen**, Runze Shi, Jinji Yang, Jianhao Ma, Jiaye Teng, Ziye Ma <br>
 
 - [Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity](https://ojs.aaai.org/index.php/AAAI/article/view/32732)<br>
-*39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025), **Oral**, **CCF-A*** <br>
+*39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025), **Oral**, **CCF A*** <br>
 **Tianqi Shen**, Shaohua Liu, Jiaqi Feng, Ziye Ma, Ning An <br>
 
 ---

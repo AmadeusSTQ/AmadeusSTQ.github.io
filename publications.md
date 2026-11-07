@@ -22,12 +22,13 @@ title: Publications
 *39th AAAI Conference on Artificial Intelligence 2025 (AAAI-25), **Oral presentation*** <br>
 **Tianqi Shen**, Shaohua Liu, Jiaqi Feng, Ziye Ma, Ning An <br>
 
+- [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](https://arxiv.org/abs/2606.21514)<br>
+*40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026), **Poster*** <br>
+**Tianqi Shen**, Runze Shi, Jinji Yang, Jianhao Ma, Jiaye Teng, Ziye Ma* <br>
+
 ---
 
 ## Arxiv Preprint
-
-- [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](https://arxiv.org/abs/2606.21514)<br>
-**Tianqi Shen**~, Runze Shi~, Jinji Yang, Jianhao Ma, Jiaye Teng, Ziye Ma* <br>
 
 - [Escaping Local Minima Provably in Non-convex Matrix Sensing: A Deterministic Framework via Simulated Lifting](https://arxiv.org/abs/2602.05887)<br>
 **Tianqi Shen**, Jinji Yang, Junze He~, Kunhan Gao~, Zeyu Zheng, Ziye Ma* <br>
@@ -35,6 +36,10 @@ title: Publications
 ---
 
 ## Patent
+
+- [一种基于图注意力强化学习的无人机集群协同对抗方法](https://patents.google.com/patent/CN116841317B/zh)<br>
+*CN116841317B*<br>
+张弘, 沈天琦, 杨一帆, 袁丁, 万家旭 <br>
 
 - [一种应用于机动平台的嵌入式孪生网络实时跟踪方法](https://patents.google.com/patent/CN113850189B/zh)<br>
 *CN113850189B*<br>

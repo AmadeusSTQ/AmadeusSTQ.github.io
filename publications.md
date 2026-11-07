@@ -11,7 +11,7 @@ title: Publications
 ## Journal Paper
 
 - [Search Multilayer Perceptron-Based Fusion for Efficient and Accurate Siamese Tracking](https://ieeexplore.ieee.org/document/11450439)<br>
-*IEEE Transactions on Cognitive and Developmental Systems (TCDS)* <br>
+*IEEE Transactions on Cognitive and Developmental Systems (TCDS), **JCR Q1*** <br>
 **Tianqi Shen**, Huakao Lin, Ning An* <br>
 
 ---
@@ -19,16 +19,19 @@ title: Publications
 ## Conference Paper
 
 - [Towards Understanding the Power and Limits of the Muon Optimizer: A River-Valley Perspective](https://arxiv.org/abs/2606.21514)<br>
-*40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026), **Poster*** <br>
+*40th Annual Conference on Neural Information Processing Systems (NeurIPS 2026), **Poster**, **CCF-A*** <br>
 **Tianqi Shen**, Runze Shi, Jinji Yang, Jianhao Ma, Jiaye Teng, Ziye Ma <br>
 
 - [Topology-Aware 3D Gaussian Splatting: Leveraging Persistent Homology for Optimized Structural Integrity](https://ojs.aaai.org/index.php/AAAI/article/view/32732)<br>
-*39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025), **Oral presentation*** <br>
+*39th Annual AAAI Conference on Artificial Intelligence (AAAI 2025), **Oral**, **CCF-A*** <br>
 **Tianqi Shen**, Shaohua Liu, Jiaqi Feng, Ziye Ma, Ning An <br>
 
 ---
 
 ## Arxiv Preprint
+
+- [Understanding the Weight Averaging Mechanism in LLM Training for Post-Training Quantization](https://arxiv.org/abs/2610.05329)<br>
+Hanzhang Wang, **Tianqi Shen**, Zonglin Liu, Junze He, Difan Zou, Ziye Ma* <br>
 
 - [Escaping Local Minima Provably in Non-convex Matrix Sensing: A Deterministic Framework via Simulated Lifting](https://arxiv.org/abs/2602.05887)<br>
 **Tianqi Shen**, Jinji Yang, Junze He~, Kunhan Gao~, Zeyu Zheng, Ziye Ma* <br>

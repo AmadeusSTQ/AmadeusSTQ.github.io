@@ -36,10 +36,11 @@ I am supported by a Postgraduate Studentship (Presidential Assistant Professors 
 
 ## News and Updates
 
-- **Jul 2026:** One patent was granted; link to be added soon.
-- **Jun 2026:** Our manuscript on a river-valley perspective for landscape analysis of the Muon optimizer is now available on arXiv. ([link](https://arxiv.org/abs/2606.21514)).
+- **Oct 2026:** I received CityUHK’s [Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-studen-2191/).
+- **Sep 2026:** Our paper on a river-valley perspective for landscape analysis of the Muon optimizer was accepted to *NeurIPS 2026* and selected for a poster presentation. ([link](https://arxiv.org/abs/2606.21514)).
+- **Jul 2026:** One patent was granted. ([link](https://patents.google.com/patent/CN116841317B/en)).
+- **Mar 2026:** Our paper on efficient aerial tracker was accepted by *IEEE Transactions on Cognitive and Developmental Systems*. ([link](https://ieeexplore.ieee.org/document/11450439)).
 - **Feb 2026:** Our manuscript on simulated tensor over-parameterization for non-convex matrix sensing is now available on arXiv. ([link](https://arxiv.org/abs/2602.05887)).
-- **Mar 2026:** Our paper on efficient aerial tracker was accepted by *IEEE Transactions on Cognitive and Developmental Systems*. ([link](https://ieeexplore.ieee.org/document/11450439))
 - **Oct 2025:** I received CityUHK’s [Outstanding Academic Performance Award for Research Degree Students (non-local UGC-funded students)](https://scholars.cityu.edu.hk/en/prizes/outstanding-academic-performance-award-for-research-degree-studen-2120/).
 - **Sep 2025:** I passed the Qualifying Examination (QE) and advanced to Ph.D. candidacy.
 - **Dec 2024:** Our paper on topology-aware 3D Gaussian Splatting was accepted to *AAAI 2025* and selected for an oral presentation. ([link](https://ojs.aaai.org/index.php/AAAI/article/view/32732))

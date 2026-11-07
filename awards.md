@@ -6,6 +6,7 @@ title: Awards
 
 ## Scholarships
 
+- **2026:** Outstanding Academic Performance Award, City University of Hong Kong (CityUHK) (HKD 1,000)
 - **2025:** Outstanding Academic Performance Award, City University of Hong Kong (CityUHK) (HKD 1,000)
 - **2024:** AAAI 2025 Student Scholarship & Volunteer Program (USD 2,000)
 - **2022:** Outstanding Student Cadre, Beihang University (BUAA)

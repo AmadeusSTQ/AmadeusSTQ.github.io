@@ -53,7 +53,7 @@ Hanzhang Wang, **Tianqi Shen**, Zonglin Liu, Junze He, Difan Zou, Ziye Ma* <br>
 ## Degree Thesis
 
 - [Research on Key Techniques for Correlation Operations in Siamese Network Object Tracking Algorithms]({{ "/mypaper/thesis/MPhil-thesis.pdf" | relative_url }})<br>
-**Tianqi Shen** (Advisors: [Prof. Hong Zhang](http://www.sa.buaa.edu.cn/info/1012/11035.htm) and [Prof. Ding Yuan](http://www.sa.buaa.edu.cn/info/1012/11026.htm))
+**Tianqi Shen** (Advisors: [Prof. Hong Zhang](http://www.sa.buaa.edu.cn/info/1140/4039.htm) and [Prof. Ding Yuan](http://www.sa.buaa.edu.cn/info/1012/11026.htm))
 <br>
 
 - [Development of a Vision-Based Autonomous Landing System for a Quadrotor UAV]({{ "/mypaper/thesis/UG-thesis.pdf" | relative_url }})<br>
